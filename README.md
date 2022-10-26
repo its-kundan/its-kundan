@@ -34,7 +34,6 @@
 
 
 [![@its_kundan's Holopin board](https://holopin.me/its_kundan)](https://holopin.io/@its_kundan)
-[![@its_kundan's Holopin board](https://holopin.me/its_kundan)](https://holopin.io/@its_kundan)
 
 
 <h3 align="left">Connect with me:</h3>
