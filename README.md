@@ -3,7 +3,7 @@
 - ❣️ My CV https://www.overleaf.com/read/bpnsybdjhntq
 - dev card <a href="https://app.daily.dev/its_kundan"><img src="https://api.daily.dev/devcards/7f79d24a078f483db76ac5f9e13cc16c.png?r=xuf" width="400" alt="Kundan Kumar's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
-<h3 align="center">A passionate fronted developer from India.</h3>
+<h3 align="center">A passionate Programmer/Developer from India.</h3>
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Web Development and DSA.
 - 💞️ I’m looking to collaborate on Web develpments
