@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
 <h3 align="center">A passionate Programmer/Developer from India.</h3>
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Web Development and DSA.
+- 🌱 I’m currently learning Full stack Web Development and  practicing DSA.
 - 💞️ I’m looking to collaborate on Web develpments
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-kundan&label=Profile%20views&color=0e75b6&style=flat" alt="its-kundan" /> </p>
