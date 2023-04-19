@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-kundan&label=Profile%20views&color=0e75b6&style=flat" alt="its-kundan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-kundan" alt="its-kundan" /></a> </p>
-
+- - dev card <a href="https://app.daily.dev/its_kundan"><img src="https://api.daily.dev/devcards/7f79d24a078f483db76ac5f9e13cc16c.png?r=xuf" width="400" alt="Kundan Kumar's Dev Card"/></a>
 <p align="left"> <a href="https://twitter.com/kundan_k_" target="blank"><img src="https://img.shields.io/twitter/follow/kundan_k_?logo=twitter&style=for-the-badge" alt="kundan_k_" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack development on Udemy.**
