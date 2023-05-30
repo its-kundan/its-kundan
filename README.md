@@ -34,7 +34,8 @@
 
 
 [![@its_kundan's Holopin board](https://holopin.me/its_kundan)](https://holopin.io/@its_kundan)
-[![its-kundan's GitHub | Stats](https://stats.quine.sh/its-kundan/github?theme=light)](https://quine.sh)
+[![its-kundan's GitHub | Topics](https://stats.quine.sh/its-kundan/topics-over-time?theme=dark)](https://quine.sh)
+[![its-kundan's GitHub | Stats](https://stats.quine.sh/its-kundan/github?theme=dark)](https://quine.sh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
