@@ -34,7 +34,7 @@
 
 
 [![@its_kundan's Holopin board](https://holopin.me/its_kundan)](https://holopin.io/@its_kundan)
-
+[![its-kundan's GitHub | Stats](https://stats.quine.sh/its-kundan/github?theme=light)](https://quine.sh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
