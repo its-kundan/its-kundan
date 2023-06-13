@@ -14,6 +14,7 @@
 - - dev card <a href="https://app.daily.dev/its_kundan"><img src="https://api.daily.dev/devcards/7f79d24a078f483db76ac5f9e13cc16c.png?r=xuf" width="400" alt="Kundan Kumar's Dev Card"/></a>
 <p align="left"> <a href="https://twitter.com/kundan_k_" target="blank"><img src="https://img.shields.io/twitter/follow/kundan_k_?logo=twitter&style=for-the-badge" alt="kundan_k_" /></a> </p>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/git?src=hash&amp;ref_src=twsrc%5Etfw">#git</a> <a href="https://twitter.com/hashtag/github?src=hash&amp;ref_src=twsrc%5Etfw">#github</a><br>💫Untracked file (initially)<br>git add --a // to Put in the staging area.<br>git status // to check the status<br>git commit -m &quot;first commit&quot; // to commit <br>git push // to sync with GitHub<br>git clone [link] // clone the repo from GitHub</p>&mdash; Kundan Kumar 🇮🇳 (@kundan_k_) <a href="https://twitter.com/kundan_k_/status/1668397391689682944?ref_src=twsrc%5Etfw">June 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - 🌱 I’m currently learning **Full Stack development on Udemy.**
 
 - 👨‍💻 All of my projects are available at [comming_soon](comming_soon)
