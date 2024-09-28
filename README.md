@@ -42,9 +42,9 @@
 [![its-kundan's GitHub | Stats](https://stats.quine.sh/its-kundan/github?theme=dark)](https://quine.sh)
 [![its-kundan's Web3 | Identity](https://stats.quine.sh/its-kundan/web3?theme=dark)](https://quine.sh)
 [![its-kundan's GitHub | Languages Over Time](https://stats.quine.sh/its-kundan/languages-over-time?theme=dark)](https://quine.sh)
---->
 [![its-kundan's Stack Overflow | Stats](https://stats.quine.sh/its-kundan/stack-overflow?theme=dark)](https://quine.sh)
 <a href="https://10fastfingers.com/typing-test/english"><img src="http://img.10fastfingers.com/badge/typing-test_1_BC.png" alt="Typing Test" /></a><p>Visit the <a href="https://10fastfingers.com/typing-test/english">Typing Test</a> and try!</p> 
+--->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/its-kundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="its-kundan" height="30" width="40" /></a>
