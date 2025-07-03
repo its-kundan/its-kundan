@@ -20,9 +20,9 @@
 
 - 🌱 I’m currently learning **Full Stack development on Udemy.**
 
-- 👨‍💻 All of my projects are available at [comming_soon](comming_soon)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kundan-cv-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [comming_soon](comming_soon)
+- 📝 I regularly write articles on [Portfolio](https://kundan-cv-portfolio.vercel.app/)
 
 - 💬 Ask me about **CP, C++, C, DSA**
 
